@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @deepak5282786
+- 👋 Hi, I’m @deepak5282786 Software Engineer at Accenture
+- 🌱 I am working as MERN Stack Develper at Accenture
 - 👀 I’m interested in learning new things.
-- 🌱 I’m currently learning and mastering react.js concept (state hooks redux)
 - 💞️ I’m looking to collaborate on github,Google meet,zoom.
 - 📫 How to reach me Email:deepak5282786@gmail.com Mobile:7380840231
 
