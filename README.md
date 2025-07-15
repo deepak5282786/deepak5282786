@@ -1,5 +1,7 @@
 <h1 align="center">🚀 Deepak Yadav</h1>
-<h3 align="center">Frontend Developer | 3.6 YOE | React | Next.js | TypeScript | Secure UI | AI-Powered Interfaces</h3>
+<h3 align="center">
+  Full Stack Developer | 3.5+ YOE | MERN Stack (MongoDB, Express, React, Node.js) | Next.js, TypeScript, SQL, AWS | Building Scalable & Secure Web Apps
+</h3>
 
 <p align="center">
   <a href="mailto:deepak5282786@gmail.com">📧 Email</a> • 
@@ -12,7 +14,7 @@
 
 ## 🧠 About Me
 
-I’m a **Frontend Engineer** with 3.6+ years of experience crafting **secure, scalable, and user-focused applications** using the modern JavaScript ecosystem.
+I’m a **Full Stack Engineer** with 3.5+ years of experience crafting **secure, scalable, and user-focused applications** using the modern JavaScript ecosystem.
 
 💡 I thrive at the intersection of:
 - 🔐 Secure authentication systems (OAuth, MFA, WebAuthn, biometrics)
@@ -52,6 +54,18 @@ I’m a **Frontend Engineer** with 3.6+ years of experience crafting **secure, s
 ![Styled Components](https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components)
 ![Ant Design](https://img.shields.io/badge/Ant%20Design-0170FE?style=for-the-badge&logo=ant-design)
 
+### 🧩 Backend & APIs  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
+![REST APIs](https://img.shields.io/badge/REST-005571?style=for-the-badge)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql)
+
+### 🗄️ Databases & ORM  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma)
+
 ### 🧪 Testing & Quality  
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest)
@@ -61,6 +75,7 @@ I’m a **Frontend Engineer** with 3.6+ years of experience crafting **secure, s
 
 ### 🚀 DevOps & Observability  
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify)
 ![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry)
